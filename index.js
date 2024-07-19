@@ -16,6 +16,7 @@ async function fetchProducts() {
     }
 }
 
+
 // Function to render products on the page
 async function renderProducts() {
     const productList = document.getElementById('productList');
