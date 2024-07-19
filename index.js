@@ -1,5 +1,5 @@
 // Replace with your actual API endpoint
-const API_URL = 'http://makeup-api.herokuapp.com/api/v1/products.json';
+const API_URL = 'https://makeup-api.herokuapp.com/api/v1/products.json';
 
 // Function to fetch products from API
 async function fetchProducts() {
